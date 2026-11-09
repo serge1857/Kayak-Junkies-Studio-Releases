@@ -1,7 +1,7 @@
 # KAYAK JUNKIES Shorts Studio – Downloads
 
 Hier gibt es den Windows-Installer des KAYAK JUNKIES Shorts Studios. Das Studio erstellt aus einem
-Angelvideo bis zu zehn unterschiedliche Shorts – lokal auf dem eigenen Rechner (nur CPU, kein Upload).
+Video bis zu zehn unterschiedliche Shorts – lokal auf dem eigenen Rechner (nur CPU, kein Upload).
 
 ## Installieren
 
